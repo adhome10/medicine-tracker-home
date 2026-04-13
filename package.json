@@ -1,0 +1,1 @@
+{\n  "name": "medicine-tracker-home",\n  "private": true,\n  "workspaces": [\n    "apps/*"\n  ],\n  "scripts": {\n    "install": "npm install --workspaces"\n  }\n}
